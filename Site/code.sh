@@ -3,7 +3,7 @@ clear
 echo -e  "
 
 
-\e[35m     ((( #Türk Siber Timi  #Yaman Efkar )))
+\e[35m     ((( #Team Mael #Fero )))
 
 
 "
